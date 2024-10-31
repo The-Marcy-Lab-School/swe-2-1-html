@@ -1,5 +1,6 @@
 # Assignment 2.0.0 - Intro To HTML
 
+- [Getting started](#getting-started)
 - [Before you start](#before-you-start)
 - [Testing](#testing)
 - [From Scratch](#from-scratch)
@@ -18,6 +19,18 @@
   - [Too many h1s](#too-many-h1s)
 
 We're going to be creating an `index.html` document and making our `modify.html` more accessible by! Let's go!
+
+## Getting started
+
+For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/fullstack-curriculum/how-tos/working-with-assignments#how-to-work-on-assignments).
+
+After cloning your repository, make sure to run the following commands:
+
+```sh
+npm i
+git checkout -b draft
+npm t
+```
 
 ## Before you start
 Be careful with spacing and capitalization! the tests are *exact* when they look for things like classes and text content.
