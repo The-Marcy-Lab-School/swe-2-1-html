@@ -1,4 +1,4 @@
-# Assignment 2.0.0 - Intro To HTML
+# Intro To HTML
 
 - [Getting started](#getting-started)
 - [Before you start](#before-you-start)
